@@ -16,7 +16,7 @@ import anirbansarkar.pageObjects.ProductCatalogue;
 
 public class SubmitOrderTest extends BaseTest {
 
-//	Change to trigger first CICD event
+//	Change to trigger 1st CICD event
 //	String email = "asanirban298@gmail.com";
 //	String pwd = "sA2!091959";
 //	String order = "ZARA COAT 3";
